@@ -1,7 +1,7 @@
 fix-a-list-apart
 ================
 
-Unclip the A List Apart's clipped title
+Install this userscript to permanently unclip the A List Apart's clipped title
 
 Firefox:
 
