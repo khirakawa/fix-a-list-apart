@@ -1,8 +1,8 @@
 // ==UserScript==
-// @name			Fix A List Apart
-// @description	         	Unclip clipped title
-// @version			1.0
-// @include        htt*://alistapart*
+// @name            Fix A List Apart
+// @description     Unclip clipped title
+// @version         1.0
+// @include         htt*://alistapart*
 // ==/UserScript==
 
 // the following jQuery load script was taken from http://stackoverflow.com/questions/2246901/how-can-i-use-jquery-in-greasemonkey-scripts-in-google-chrome
@@ -23,7 +23,7 @@ function addJQuery(callback) {
 function main() {
 	// if we are not on the homepage, remove the title
   if(jQ("body > .global-nav").length !== 0){
-  	jQ(".killer-logo").remove();
+    jQ(".killer-logo").remove();
 	} else {
 		jQ(".killer-logo a").css({"margin-top": "10px"});
 		jQ("figure.wide-hero").css({"margin-top": "40px"});
