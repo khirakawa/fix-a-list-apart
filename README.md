@@ -12,4 +12,6 @@ Chrome:
 1. [Download userscript](https://raw.github.com/khirakawa/fix-a-list-apart/master/fix-a-list-apart.user.js)
 2. Drag and drop file into [Chrome Extensions](chrome://chrome/extensions)
 
+Special thanks to [@joshdick](http://github.com/joshdick)
+
 Cheers
