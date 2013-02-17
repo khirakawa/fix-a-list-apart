@@ -18,4 +18,6 @@ Chrome:
 
 Special thanks to [@joshdick](http://github.com/joshdick)
 
+Holy shit, Zeldman just linked this repo on [this ALA Blog](http://alistapart.com/blog/post/outside-the-box).  10 minutes of well spent time ;)
+
 Cheers
