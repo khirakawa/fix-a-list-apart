@@ -13,7 +13,8 @@ Firefox:
 Chrome:
 
 1. [Download userscript](https://raw.github.com/khirakawa/fix-a-list-apart/master/fix-a-list-apart.user.js)
-2. Drag and drop file into [Chrome Extensions](chrome://chrome/extensions)
+2. Type `chrome://extensions/` into your browser to open Chrome Extensions.
+2. Drag and drop userscript into Chrome Extensions
 
 Special thanks to [@joshdick](http://github.com/joshdick)
 
