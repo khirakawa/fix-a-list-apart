@@ -31,8 +31,11 @@ function main() {
   }
 
   // Fix the footer
-  jQ(".deadly-subtitle").css({height:"65px"});
-  jQ(".global-footer").css({"padding-bottom": "75px"});
+  jQ(".main-wrapper").css({"padding-bottom": "0"});
+  jQ(".global-footer").css({"padding-bottom": "0", "position" : "static"});
+  jQ(".head-east-young-man").css({"margin-bottom": "12px", "position" : "static"});
+  jQ(".deadly-subtitle").css({height:"65px", "position" : "static"});
+  jQ(".deadly-subtitle").remove().insertAfter(".copyright");
 }
 
 // Load jQuery, then execute the main function
